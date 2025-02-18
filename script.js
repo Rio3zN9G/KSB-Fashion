@@ -5,16 +5,16 @@ document.getElementById("hamburger").addEventListener("click", function() {
 
 // Daftar Harga dan Kategori
 const dataHarga = [
-    { kategori: "kaos", nama: "Kaos | Cotton Bamboo", harga: 75000 },
-    { kategori: "kaos", nama: "Kaos | Cotton Combed 24s", harga: 70000 },
-    { kategori: "kaos", nama: "Kaos | Cotton Combed 30s", harga: 65000 },
-    { kategori: "jaket", nama: "Jaket | Outdoor (Taslan Baloon)", harga: 180000 },
-    { kategori: "jaket", nama: "Jaket | Coach (Taslan)", harga: 150000 },
-    { kategori: "jaket", nama: "Jaket | Parka (Twist/Drill)", harga: 170000 },
-    { kategori: "kemeja", nama: "Kemeja/PDH | American Drill Grade B", harga: 125000 },
-    { kategori: "kemeja", nama: "Kemeja/PDH | American Drill Grade A", harga: 140000 },
-    { kategori: "rompi", nama: "Rompi | American Drill Grade B", harga: 115000 },
-    { kategori: "rompi", nama: "Rompi | American Drill Grade A", harga: 120000 }
+    { kategori: "kaos", nama: "Kaos | Cotton Bamboo", harga: 85000 },
+    { kategori: "kaos", nama: "Kaos | Cotton Combed 24s", harga: 75000 },
+    { kategori: "kaos", nama: "Kaos | Cotton Combed 30s", harga: 75000 },
+    { kategori: "jaket", nama: "Jaket | Outdoor (Taslan Baloon)", harga: 185000 },
+    { kategori: "jaket", nama: "Jaket | Coach (Taslan)", harga: 155000 },
+    { kategori: "jaket", nama: "Jaket | Parka (Twist/Drill)", harga: 175000 },
+    { kategori: "kemeja", nama: "Kemeja/PDH | American Drill Grade B", harga: 135000 },
+    { kategori: "kemeja", nama: "Kemeja/PDH | American Drill Grade A", harga: 145000 },
+    { kategori: "rompi", nama: "Rompi | American Drill Grade B", harga: 125000 },
+    { kategori: "rompi", nama: "Rompi | American Drill Grade A", harga: 130000 }
 ];
 
 // Fungsi menampilkan daftar harga
